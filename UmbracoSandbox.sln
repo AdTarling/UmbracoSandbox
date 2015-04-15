@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoSandbox", "UmbracoSandbox\UmbracoSandbox.csproj", "{E7092807-AA6B-4736-B448-F7FE0618C36A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoSandbox.Tests", "UmbracoSandbox.Tests\UmbracoSandbox.Tests.csproj", "{C809A4CA-CA84-48DD-AACE-160BF239A325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7092807-AA6B-4736-B448-F7FE0618C36A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7092807-AA6B-4736-B448-F7FE0618C36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7092807-AA6B-4736-B448-F7FE0618C36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7092807-AA6B-4736-B448-F7FE0618C36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C809A4CA-CA84-48DD-AACE-160BF239A325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C809A4CA-CA84-48DD-AACE-160BF239A325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C809A4CA-CA84-48DD-AACE-160BF239A325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C809A4CA-CA84-48DD-AACE-160BF239A325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
